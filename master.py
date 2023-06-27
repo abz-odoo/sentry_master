@@ -100,7 +100,7 @@ sentry.init(
 def call():
     print("from master")
     print("calling slave from master")
-    slove
+    # slove
     # sluve
     print(slave.call())
 
