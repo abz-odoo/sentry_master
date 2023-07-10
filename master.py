@@ -100,9 +100,9 @@ sentry.init(
 def call():
     print("from master")
     print("calling slave from master")
-    # slove
+    slavee
     # sluve
     print(slave.call())
-
+    # add code
 if __name__ == "__main__":
     call()
